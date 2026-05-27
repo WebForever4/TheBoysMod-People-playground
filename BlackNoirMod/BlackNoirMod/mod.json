@@ -1,0 +1,19 @@
+{
+  "Name": "Black Noir",
+  "Author": "ShatterLabs",
+  "Description": "The silent assassin of Vought. F on his head to toggle the mask.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.27+",
+  "ThumbnailPath": "Thumbnails/Thumb.png",
+  "EntryPoint": "Starter.Mod",
+  "Tags": [
+    "Mods"
+  ],
+  "Scripts": [
+    "Starter.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3668005215",
+  "AssemblyName": null
+}
