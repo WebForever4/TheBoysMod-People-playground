@@ -1,0 +1,19 @@
+{
+  "Name": "The Incredibles Mod",
+  "Author": "Shottz_",
+  "Description": "This workshop needs a Hero!",
+  "ModVersion": "1.0",
+  "GameVersion": "1.27+",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Starter.Mod",
+  "Tags": [
+    "Mods"
+  ],
+  "Scripts": [
+    "Starter.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3668005215",
+  "AssemblyName": null
+}
